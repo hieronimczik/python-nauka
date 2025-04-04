@@ -1,0 +1,17 @@
+Zadania praktyczne
+
+1. Lista zakupów
+
+- Stwórz listę produktów, dodaj coś, usuń coś, wypisz całość.
+
+2. Adres użytkownika
+
+- Stwórz słownik z danymi osoby (imię, wiek, miasto) i wypisz je ładnie.
+
+3. Krotka z dniami tygodnia
+
+- Wypisz dni tygodnia z krotki w pętli.
+
+4. Porównanie zbiorów
+
+- Utwórz dwa zbiory z ulubionymi grami dwóch osób, wypisz wspólne i różne tytuły pętlą.
