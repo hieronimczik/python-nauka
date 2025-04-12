@@ -1,0 +1,5 @@
+Zadanie 1: Stwórz klasę Samochod, która ma prywatny atrybut __przebieg. Dodaj metody do jego odczytu i zwiększania o podaną wartość.
+
+Zadanie 2: Stwórz klasę abstrakcyjną Zwierze z metodą wydaj_dzwiek(). Zrób klasy Kot i Pies, które implementują ją po swojemu.
+
+Zadanie 3: Zrób klasę Produkt (nazwa, cena), a potem Elektronika, która dziedziczy po Produkt i dodaje atrybut gwarancja. Użyj super().

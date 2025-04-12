@@ -1,0 +1,16 @@
+Zadanie 1 – Klasa bazowa Zwierze
+Atrybuty: imie, wiek, gatunek
+
+Metoda: przedstaw_sie() – wypisuje opis zwierzaka
+
+🔹 Zadanie 2 – Klasa Pies i Kot, które dziedziczą po Zwierze
+Dodaj im własne metody:
+
+szczekaj() dla psa: wypisuje „Hau hau!”
+
+mialcz() dla kota: wypisuje „Miau!”
+
+🔹 Zadanie 3 – Stwórz po 1 obiekcie psa i kota, wywołaj:
+przedstaw_sie() – odziedziczona metoda
+
+ich unikalne metody

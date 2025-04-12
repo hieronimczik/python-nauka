@@ -1,0 +1,20 @@
+Zadanie 1: Klasa Zwierze
+Atrybuty: gatunek, wiek
+
+Metoda przedstaw_sie() – wypisuje: „Jestem {gatunek}, mam {wiek} lat.”
+
+🔹 Zadanie 2: Klasa BankKonto
+Atrybuty: wlasciciel, saldo
+
+Metody:
+
+-wplac(kwota) – dodaje do salda
+
+-wyplac(kwota) – odejmuje (jeśli saldo wystarczy)
+
+-pokaz_saldo() – wypisuje saldo
+
+🔹 Zadanie 3: RPG
+Klasa Postac: nick, hp, atak
+
+Metoda atakuj(inny_gracz) – odejmuje atak od hp innego gracza
